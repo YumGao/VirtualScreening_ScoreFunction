@@ -10,3 +10,6 @@ These contain details about the majority of the data preparation steps that we t
 
 Our data and figures for SCORCH are in the following Google Drive:
 ·         https://drive.google.com/drive/folders/1re0fs9TXRLlRneQYOCtNKS0XfiPyTvCp?usp=sharing
+
+
+https://github.com/SMVDGroup/SCORCH/tree/main/utils
